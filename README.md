@@ -216,3 +216,11 @@ More info: http://stackoverflow.com/a/35098040/1683164
     ```
 
 The executable can be found in the ```.\release\bin``` directory.
+
+### Donate me:
+#### Haven:
+hvxyGkGVn8dHnuY2h1PMJBYm2RPuyAuKrASndHfBVe4kU6yU2Rt9QU1FT8QBbf9pDoLcmLuefuxp95cF7M5t1f8x3KNCbeqrgi
+#### Monero:
+484m3WHUFBRXbM2xtgxEdYFsjykxf2Mj6EnNfheCpnE53dEXmFYrWNiiXbrC6oEKqT6kumgzoPVJvUjW6PPGhpUpFWdQsfK
+#### Bitcoin:
+1HioM2usJjx7k3VgQwg1ijwz7CPkt4ZWzH
